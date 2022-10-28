@@ -1,8 +1,11 @@
 ---
-Sue Bayes: Welcome to my blog
+layout: 
+title: Welcome to my blog
 ---
 
 About Me
+I need to learn how to use formatter!!
+
 I'm passionate about data, a Data Analytics Power BI developer and data fixer. 
 I also work with R, Python, SQL, Excel & database dev - ask questions, see patterns & solve problems.
 
